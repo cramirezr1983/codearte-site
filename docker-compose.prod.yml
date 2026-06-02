@@ -1,0 +1,11 @@
+services:
+  webcore_prod:
+
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+
+    container_name: webcore_prod
+
+    ports:
+      - "8080:80"

@@ -1,0 +1,14 @@
+services:
+  webcore:
+    build: .
+    container_name: webcore_app
+
+    ports:
+      - "5174:5173"
+
+    volumes:
+      - .:/app
+      - /app/node_modules
+
+    stdin_open: true
+    tty: true
