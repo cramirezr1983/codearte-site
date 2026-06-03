@@ -31,7 +31,11 @@ import jaimeImg from '../assets/projects/jaime.png'
 
         <!-- Proyecto 1 -->
 
-        <div class="border border-gray-200 rounded-3xl overflow-hidden">
+        <div class="border border-gray-200 rounded-3xl overflow-hidden
+        hover:-translate-y-1
+        hover:shadow-xl
+        transition
+        duration-300">
 
           <a href="https://erikal.cl" target="_blank"><img
               :src="erikalImg"
@@ -72,7 +76,11 @@ import jaimeImg from '../assets/projects/jaime.png'
 
         <!-- Proyecto 2 -->
 
-        <div class="border border-gray-200 rounded-3xl overflow-hidden">
+        <div class="border border-gray-200 rounded-3xl overflow-hidden
+        hover:-translate-y-1
+        hover:shadow-xl
+        transition
+        duration-300">
 
           <a href="https://fotografia-andree.cl" target="_blank"><img
               :src="andreeImg"
@@ -109,7 +117,11 @@ import jaimeImg from '../assets/projects/jaime.png'
 
         <!-- Proyecto 3 -->
 
-        <div class="border border-gray-200 rounded-3xl overflow-hidden">
+        <div class="border border-gray-200 rounded-3xl overflow-hidden
+        hover:-translate-y-1
+        hover:shadow-xl
+        transition
+        duration-300">
 
           <a href="https://fotos-jaime-ahumada.cl" target="_blank"><img
               :src="jaimeImg"

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://webcore.studio/sitemap.xml
+Sitemap: https://codearte.cl/sitemap.xml

@@ -1,11 +1,11 @@
 services:
-  webcore_prod:
+  codearte_prod:
 
     build:
       context: .
       dockerfile: Dockerfile.prod
 
-    container_name: webcore_prod
+    container_name: codearte_prod
 
     ports:
       - "8080:80"
