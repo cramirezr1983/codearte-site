@@ -12,7 +12,7 @@ import logo from '../assets/logo/CodeArteLogo.png'
           <img
               :src="logo"
               alt="CodeArte"
-              class="h-10 w-auto"
+              class="h-14 w-auto"
           />
 
           <h3 class="text-2xl font-bold tracking-tight">

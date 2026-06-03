@@ -1,5 +1,7 @@
 <script setup>
 import erikalImg from '../assets/projects/erikal.png'
+import andreeImg from '../assets/projects/andree.png'
+import jaimeImg from '../assets/projects/jaime.png'
 </script>
 <template>
   <section
@@ -52,7 +54,7 @@ import erikalImg from '../assets/projects/erikal.png'
               los trabajos realizados con toda la suavidad de la lana natural.
             </p>
 
-            <div class="flex flex-wrap gap-3">
+            <!--div class="flex flex-wrap gap-3">
 
               <span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
                 Vue
@@ -62,7 +64,7 @@ import erikalImg from '../assets/projects/erikal.png'
                 Tailwind
               </span>
 
-            </div>
+            </div-->
 
           </div>
 
@@ -72,7 +74,11 @@ import erikalImg from '../assets/projects/erikal.png'
 
         <div class="border border-gray-200 rounded-3xl overflow-hidden">
 
-          <div class="h-56 bg-gray-100"></div>
+          <a href="https://fotografia-andree.cl" target="_blank"><img
+              :src="andreeImg"
+              alt="Portafolio de fotos Andree"
+              class="h-56 w-full object-cover"
+          /></a>
 
           <div class="p-8">
 
@@ -85,7 +91,7 @@ import erikalImg from '../assets/projects/erikal.png'
               y contenido multimedia.
             </p>
 
-            <div class="flex flex-wrap gap-3">
+            <!--div class="flex flex-wrap gap-3">
 
               <span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
                 Frontend
@@ -95,7 +101,7 @@ import erikalImg from '../assets/projects/erikal.png'
                 Responsive
               </span>
 
-            </div>
+            </div-->
 
           </div>
 
@@ -105,20 +111,23 @@ import erikalImg from '../assets/projects/erikal.png'
 
         <div class="border border-gray-200 rounded-3xl overflow-hidden">
 
-          <div class="h-56 bg-gray-100"></div>
+          <a href="https://fotos-jaime-ahumada.cl" target="_blank"><img
+              :src="jaimeImg"
+              alt="Jaime Ahumada Fotografía"
+              class="h-56 w-full object-cover"
+          /></a>
 
           <div class="p-8">
 
             <h3 class="text-2xl font-semibold mb-4">
-              Landing para Banda
+              Fotógrafo profesional
             </h3>
 
             <p class="text-gray-600 leading-relaxed mb-6">
-              Sitio promocional para difusión musical, contenido multimedia
-              y presencia digital.
+              Sitio promocional para difusión de servicios fotográficos.
             </p>
 
-            <div class="flex flex-wrap gap-3">
+            <!--div class="flex flex-wrap gap-3">
 
               <span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
                 UI/UX
@@ -128,7 +137,7 @@ import erikalImg from '../assets/projects/erikal.png'
                 Web
               </span>
 
-            </div>
+            </div-->
 
           </div>
 

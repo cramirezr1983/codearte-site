@@ -24,7 +24,7 @@ const closeMenu = () => {
         <img
             :src="logo"
             alt="CodeArte"
-            class="h-10 w-auto"
+            class="h-12 w-auto"
         />
 
         <span class="text-2xl font-bold tracking-tight">

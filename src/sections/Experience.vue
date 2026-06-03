@@ -82,7 +82,7 @@
 
             <div>
               <h4 class="font-semibold mb-4 text-gray-800">
-                Frontend
+                Interfaces modernas y responsivas
               </h4>
 
               <div class="flex flex-wrap gap-3">
@@ -93,7 +93,7 @@
 
             <div>
               <h4 class="font-semibold mb-4 text-gray-800">
-                Backend
+                Desarrollo backend robusto
               </h4>
 
               <div class="flex flex-wrap gap-3">
@@ -108,7 +108,7 @@
 
             <div>
               <h4 class="font-semibold mb-4 text-gray-800">
-                DevOps & Infraestructura
+                Infraestructura y despliegue
               </h4>
 
               <div class="flex flex-wrap gap-3">
