@@ -38,7 +38,7 @@
           </h3>
 
           <p class="text-gray-600 leading-relaxed">
-            Magento, optimización de tiendas, integraciones y soporte técnico.
+            Configuración y optimización de tiendas, integraciones, desarrollos y soporte técnico, etc.
           </p>
         </div>
 

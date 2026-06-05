@@ -12,7 +12,7 @@
         </p>
 
         <h2 class="text-4xl md:text-5xl font-bold tracking-tight mb-6">
-          Experiencia en proyectos web y e-commerce de alto impacto
+          Experiencia en proyectos e-commerce y web en diferentes plataformas y tecnologías.
         </h2>
 
         <p class="text-lg text-gray-600 leading-relaxed">
@@ -41,7 +41,7 @@
 
               <p class="text-gray-600 leading-relaxed">
                 Participación en proyectos y plataformas digitales orientadas
-                a rendimiento y estabilidad.
+                a ventas, rendimiento y estabilidad.
               </p>
             </div>
 
@@ -51,7 +51,7 @@
               </h4>
 
               <p class="text-gray-600 leading-relaxed">
-                Desarrollo y soporte de soluciones e-commerce y procesos web.
+                Implementación sitio, desarrollos y soporte de soluciones e-commerce y procesos web.
               </p>
             </div>
 
@@ -61,8 +61,8 @@
               </h4>
 
               <p class="text-gray-600 leading-relaxed">
-                Experiencia en plataformas Magento, integraciones, optimización
-                y soporte técnico para sitios de alto tráfico.
+                Experiencia en desarrollo web en diversas plataformas y lenguajes de programación,
+                integraciones, optimización y soporte técnico para sitios de alto tráfico.
               </p>
             </div>
 

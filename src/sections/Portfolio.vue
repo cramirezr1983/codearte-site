@@ -82,7 +82,7 @@ import jaimeImg from '../assets/projects/jaime.png'
         transition
         duration-300">
 
-          <a href="https://fotografia-andree.cl" target="_blank"><img
+          <a><img
               :src="andreeImg"
               alt="Portafolio de fotos Andree"
               class="h-56 w-full object-cover"
@@ -99,17 +99,17 @@ import jaimeImg from '../assets/projects/jaime.png'
               y contenido multimedia.
             </p>
 
-            <!--div class="flex flex-wrap gap-3">
+            <div class="flex flex-wrap gap-3">
 
               <span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
-                Frontend
+                Sitio en desarrollo
               </span>
 
-              <span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
+              <!--span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
                 Responsive
-              </span>
+              </span-->
 
-            </div-->
+            </div>
 
           </div>
 
@@ -123,7 +123,7 @@ import jaimeImg from '../assets/projects/jaime.png'
         transition
         duration-300">
 
-          <a href="https://fotos-jaime-ahumada.cl" target="_blank"><img
+          <a><img
               :src="jaimeImg"
               alt="Jaime Ahumada Fotografía"
               class="h-56 w-full object-cover"
@@ -139,17 +139,17 @@ import jaimeImg from '../assets/projects/jaime.png'
               Sitio promocional para difusión de servicios fotográficos.
             </p>
 
-            <!--div class="flex flex-wrap gap-3">
+            <div class="flex flex-wrap gap-3">
 
               <span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
-                UI/UX
+                Sitio en desarrollo
               </span>
 
-              <span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
+              <!--span class="border border-gray-300 px-3 py-1 rounded-full text-sm">
                 Web
-              </span>
+              </span-->
 
-            </div-->
+            </div>
 
           </div>
 

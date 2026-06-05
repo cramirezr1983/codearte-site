@@ -44,14 +44,14 @@ import heroBg from '../assets/hero/bg-deskk.png'
 
           <a
               href="#contact"
-              class="bg-white text-black px-8 py-4 rounded-xl font-medium hover:opacity-90 transition"
+              class="bg-white text-black px-8 py-4 rounded-xl font-medium hover:opacity-90 transition hover:scale-[1.02]"
           >
             Hablemos
           </a>
 
           <a
               href="#portfolio"
-              class="border border-gray-500 text-white px-8 py-4 rounded-xl font-medium hover:bg-white/10 transition"
+              class="border border-gray-500 text-white px-8 py-4 rounded-xl font-medium hover:bg-white/10 transition hover:scale-[1.02]"
           >
             Ver proyectos
           </a>
